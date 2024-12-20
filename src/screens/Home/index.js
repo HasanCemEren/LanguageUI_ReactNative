@@ -83,8 +83,8 @@ const index = () => {
         </View>
         <View style={[Styles.box, {backgroundColor: 'blue'}]}>
           <View style={Styles.textBox}>
-            <Text style={Styles.languageText}>Spanish</Text>
-            <Text style={Styles.levelText}>Begginner</Text>
+            <Text style={Styles.languageText}>Turkish</Text>
+            <Text style={Styles.levelText}>Advenced</Text>
             <View style={Styles.percentRound}>
               <Text style={Styles.percentText}>43%</Text>
             </View>

@@ -120,22 +120,23 @@ export default StyleSheet.create({
   },
   languageText: {
     fontSize: 23,
-    fontWeight: '600',
+    fontWeight: '500',
     color: 'white',
   },
   levelText: {
     fontSize: 15,
-    fontWeight: '600',
+    fontWeight: '400',
     color: 'white',
   },
   percentText: {
-    fontWeight: '600',
+    fontWeight: '300',
     color: 'white',
     textAlign: 'center',
     marginTop: '20%',
   },
   textBox: {
-    margin: '5%',
+    margin: '3%',
+    padding: '5%',
   },
   percentRound: {
     marginTop: '3%',
